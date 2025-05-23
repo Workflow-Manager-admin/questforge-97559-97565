@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for QuestForge', 'description': 'Primary container for QuestForge implementation: A simple role-playing game (RPG) where players can create a character, explore a map, fight monsters, and collect items. The game is turn-based and features basic stats, inventory, and leveling up.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
