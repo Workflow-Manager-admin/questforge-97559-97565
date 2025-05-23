@@ -120,3 +120,36 @@ ERROR in ./src/App.js 13:0-45
 Module not found: Error: Can't resolve './components/GameOver' in '/home/kavia/workspace/code-generation/questforge-97559-97565/questforge/src'
 
 webpack compiled with 4 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './components/Inventory' in '/home/kavia/workspace/code-generation/questforge-97559-97565/questforge/src'
+WARNING in [eslint] 
+src/App.js
+  Line 86:6:  React Hook useEffect has missing dependencies: 'calculateVisibleTiles', 'character.position', 'map.height', and 'map.width'. Either include them or remove the dependency array. You can also replace multiple useState variables with useReducer if 'setMap' needs the current value of 'character.position'  react-hooks/exhaustive-deps
+
+ERROR in ./src/App.js 11:0-47
+Module not found: Error: Can't resolve './components/Inventory' in '/home/kavia/workspace/code-generation/questforge-97559-97565/questforge/src'
+
+ERROR in ./src/App.js 12:0-51
+Module not found: Error: Can't resolve './components/StatDisplay' in '/home/kavia/workspace/code-generation/questforge-97559-97565/questforge/src'
+
+ERROR in ./src/App.js 13:0-45
+Module not found: Error: Can't resolve './components/GameOver' in '/home/kavia/workspace/code-generation/questforge-97559-97565/questforge/src'
+
+webpack compiled with 3 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './components/StatDisplay' in '/home/kavia/workspace/code-generation/questforge-97559-97565/questforge/src'
+WARNING in [eslint] 
+src/App.js
+  Line 86:6:  React Hook useEffect has missing dependencies: 'calculateVisibleTiles', 'character.position', 'map.height', and 'map.width'. Either include them or remove the dependency array. You can also replace multiple useState variables with useReducer if 'setMap' needs the current value of 'character.position'  react-hooks/exhaustive-deps
+
+ERROR in ./src/App.js 12:0-51
+Module not found: Error: Can't resolve './components/StatDisplay' in '/home/kavia/workspace/code-generation/questforge-97559-97565/questforge/src'
+
+ERROR in ./src/App.js 13:0-45
+Module not found: Error: Can't resolve './components/GameOver' in '/home/kavia/workspace/code-generation/questforge-97559-97565/questforge/src'
+
+webpack compiled with 2 errors and 1 warning
